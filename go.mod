@@ -1,1 +1,1 @@
-module github.com/DenisFilisov/cacshLib
+module github.com/DenisFilisov/cacheLib
