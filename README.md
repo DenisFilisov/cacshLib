@@ -1,4 +1,4 @@
-# cacshLib
+# cacheLib
 cash library for cashing key, value data
 
 how it works:

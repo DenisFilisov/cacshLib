@@ -1,4 +1,4 @@
-package cacshLib
+package cacheLib
 
 import (
 	"errors"
